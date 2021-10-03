@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Some gists:  
+[STM32F407 UART Implementation](https://gist.github.com/ivalery111/32a8a9cdb28ed7bfff047a5498de6c91)
