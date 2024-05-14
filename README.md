@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Some stuff resides on [codeberg](https://codeberg.org/ioneoff)
+
 <!--
 **ivalery111/ivalery111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
